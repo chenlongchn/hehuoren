@@ -6,7 +6,7 @@
                     <img src="/static/images/logo-yellow.png" alt="">
                 </div>
             </div>
-            <div class="logo-name">登陆</div>
+            <div class="logo-name">登陆登陆</div>
             <div class="form">
                 <div class="inp">
                     <img src="/static/images/iconPhone.png" alt="">
